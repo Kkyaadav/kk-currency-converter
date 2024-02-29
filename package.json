@@ -1,0 +1,26 @@
+{
+  "name": "kk-currency-converter",
+  "version": "1.0.0",
+  "description": "a currency converter package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kkyaadav/kk-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "kailash kumar p",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Kkyaadav/kk-currency-converter/issues"
+  },
+  "homepage": "https://github.com/Kkyaadav/kk-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
